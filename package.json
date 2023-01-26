@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Disv-23/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Disv-23/hexlet-js#readme"
+  "homepage": "https://github.com/Disv-23/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
